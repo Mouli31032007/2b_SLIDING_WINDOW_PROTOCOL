@@ -39,10 +39,10 @@ while True:
 ```
 ## OUPUT
 ## CLIENT
-<img width="491" height="283" alt="2b client" src="https://github.com/user-attachments/assets/7b04e712-89b1-4358-a01c-3f056caf536a" />
+<img width="484" height="352" alt="Screenshot 2025-09-29 160652" src="https://github.com/user-attachments/assets/d88bc677-1b38-4433-823a-b9d1a4e4a2c0" />
 
 ## SERVER
-<img width="452" height="216" alt="2b server" src="https://github.com/user-attachments/assets/c220e11c-d671-4169-984b-f6ddc990d885" />
+<img width="420" height="305" alt="Screenshot 2025-09-29 160644" src="https://github.com/user-attachments/assets/9aba46d4-fcc1-4fa1-9d0e-79cdd74e4747" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
